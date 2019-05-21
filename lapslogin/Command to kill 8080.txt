@@ -1,0 +1,9 @@
+Command to kill 8080
+
+lsof -i tcp:8080
+
+kill -15 PID
+
+
+- PID IS A NUMBER PROVIDED BY THE FIRST COMMAND
+
