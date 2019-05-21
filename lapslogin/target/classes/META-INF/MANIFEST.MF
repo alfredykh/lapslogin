@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: AlfredYKH
+Build-Jdk: 12.0.1
+Implementation-Title: lapslogin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sg.edu.nus
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/lapslogin
+Created-By: Maven Integration for Eclipse
+
